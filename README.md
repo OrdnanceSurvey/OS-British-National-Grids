@@ -33,11 +33,11 @@ As an example, you can drag and drop it straight into QGIS.
 
 These grids can be used for visualisation, data selection (filtering OS data), and we're sure you'll find novel ways to put them to good use. If you do, we'd love to hear about it.
 
-## License
+## Licence
 
 If you use our grids please acknowledge OS.
 
-This repo is licensed under the terms of the [Open Government Licence (OGL) v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). Please see [./LICENSE.txt](./LICENSE.txt).
+This repo is licensed under the terms of the [Open Government Licence (OGL) v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). Please see [./LICENCE.txt](./LICENCE.txt).
 
 Contains OS data © Crown copyright and database right 2021.
 
