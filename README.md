@@ -27,7 +27,7 @@ e.g. 'tile_name' = "SP19SW" and 'tile_grid_ref' = "SP1090"
 These grids cover the full British National Grid extent (0,0 700000,1300000) 
 
 ## Usage
-Unzip the GeoPackage and it is ready to use!
+[Downlaod this repository](https://github.com/OrdnanceSurvey/OS-British-National-Grids/archive/main.zip), unzip the GeoPackage and it is ready to use!
 
 As an example, you can drag and drop it straight into QGIS.
 
