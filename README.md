@@ -15,7 +15,7 @@ A single, zipped GeoPackage (os_bng_grids.gpkg) containing each grid as a separa
 
 The Coordinate Reference System is British National Grid (EPSG:27700)
 
-Unzipped it is 196MB
+Unzipped it is 201MB
 
 ## Attribution
 Every grid cell is attributed with its 'tile_name'
