@@ -2,7 +2,7 @@
 A free set of grids at various resolutions for Ordnance Survey’s National Grid
 
 
-![Grids](https://raw.githubusercontent.com/OrdnanceSurvey/OS-British-National-Grids/main/grids.PNG?token=ABO7BDMCWF5XYTRNMQNO2XLADRWT6)
+![Grids](https://raw.githubusercontent.com/OrdnanceSurvey/OS-British-National-Grids/main/grids.PNG)
 
 ## GeoPackage
 A single, zipped GeoPackage (os_bng_grids.gpkg) containing each grid as a separate layer:
