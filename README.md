@@ -33,6 +33,9 @@ As an example, you can drag and drop it straight into QGIS.
 
 These grids can be used for visualisation, data selection (filtering OS data), and we're sure you'll find novel ways to put them to good use. If you do, we'd love to hear about it.
 
+## Like grids?
+Grids can be a great way to aggregate data ready for analysis and/or visualisation. As well as these British National Grids, we also have a hand-designed, [equal area cartogram available.](https://github.com/OrdnanceSurvey/equal-area-cartogram) A transformation of the 2019 Local Authority District geography of the UK into a square equal area cartogram map for flexible data visualisation at local authority-level.
+
 ## Licence
 
 If you use our grids please acknowledge OS.
